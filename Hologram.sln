@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{08841378-21D8-E69A-D2EB-B4DBD2747D24}") = "Hologram", "Assembly-CSharp.csproj", "{71D1D0F6-2615-A9E0-72DD-27D4172DD082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D1D0F6-2615-A9E0-72DD-27D4172DD082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1D0F6-2615-A9E0-72DD-27D4172DD082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1D0F6-2615-A9E0-72DD-27D4172DD082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1D0F6-2615-A9E0-72DD-27D4172DD082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
