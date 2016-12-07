@@ -37,6 +37,7 @@ public class CameraVisualizer : MonoBehaviour {
 
 	void Update()
 	{
+
 		AnalyzeSound();
 
 		float frequencyMult = Mathf.Clamp (DbValue, -160f, 17f) + 120f;
